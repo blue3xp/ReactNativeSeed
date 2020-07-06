@@ -1,0 +1,1 @@
+export { useFetchRedditList } from './fetchList';
